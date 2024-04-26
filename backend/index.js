@@ -18,7 +18,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(cors());
 
 app.use(cors({
-   origin: 'https://ecommerce-frontend-seven-sand.vercel.app/',  
+   origin: 'https://ecommerce-frontend-iota-ten.vercel.app',  
    credentials: true  
  }));
 
